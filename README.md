@@ -20,6 +20,7 @@ You will be able to obtain a certificate of participation. Basic prior programmi
 
 # Units
 ## 1. Introduction to git: Using github
+[Go to unit 1](unit1/README.md)
 1. Creating a new repository
 1. Branching and pull requests
 1. Code review and merging
