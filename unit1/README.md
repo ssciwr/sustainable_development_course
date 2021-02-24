@@ -15,6 +15,7 @@ If you run into problems at any point, please contact us via inga.ulusoy@uni-hei
 3. Install git  
 `sudo apt install git-all`
 4. Install python/jupyter/numpy/pandas/seaborn
+
 ### Option B
 1. Install git support for your favorite IDE, for example [Visual Studio Code](https://visualstudio.microsoft.com/downloads/) and make sure that it works with github.
 2. Make sure that you have a python environment set up and python language support/linter installed.
@@ -32,7 +33,7 @@ If you run into problems at any point, please contact us via inga.ulusoy@uni-hei
 git config --global user.name "John Doe"
 git config --global user.email johndoe@example.com
 ```
-2. Please download the [install script](unit1/test_install.py) that will check all the libraries.
+2. Please download the install script in the github repository, from `unit1/test_install.py`. This will check all the libraries.
 3. Move the script to your current folder in the terminal and type  
 `python test_install.py` or run it in your IDE. Two windows with graphs should pop up, the first one saying "testing matplotlib", the second one "testing seaborn", both of them showing a straight line. The output of the script should approximately read  
 ```
@@ -47,16 +48,16 @@ The script took 423.45 seconds to run!
 In unit 1, we will only use Jupyter notebooks - you do not need an IDE for that. So you do not need to worry about point 4. for the first week.
 
 # 2. Video: Unit 1, Part 1
-Please watch the video at https://youtu.be/Q_IqJOluGB4.
+Please watch the [video](https://youtu.be/Q_IqJOluGB4).
 
 # 3. Github learning lab
 Create a github account and work through the [github learning lab](https://lab.github.com/githubtraining/introduction-to-github).
 
 # 4. Video: Unit 1, Part 2
-Please watch the video at https://youtu.be/Q_IqJOluGB4 (thjs will be a different video).
+Please watch the [video](https://youtu.be/Q_IqJOluGB4) (thjs will be a different video).
 
 # 5. Quiz
-Answer the [questions](https://www.menti.com/n9brjtzsvm), code 1719454.
+Answer the [questions](https://forms.gle/NXypPT3QbC33NDiW6) (this is strictly anonymous).
 
 # 6. Live lesson
 We will meet on Thursday, March 11th at 12:30 - 3:00 PM for the live lesson. You should have gotten a link via email.
