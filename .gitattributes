@@ -1,0 +1,3 @@
+# correct the language detection on github
+# exclude data files from linguist analysis
+data/* linguist-generated
