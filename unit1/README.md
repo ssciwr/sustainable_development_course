@@ -60,7 +60,7 @@ Please watch the [video](https://youtu.be/Q_IqJOluGB4) (thjs will be a different
 Answer the [questions](https://forms.gle/NXypPT3QbC33NDiW6) (this is strictly anonymous).
 
 # 6. Live lesson
-We will meet on Thursday, March 11th at 12:30 - 3:00 PM for the live lesson. You should have gotten a link via email. You will need a couple of files for the implementation that we will work through in the lesson: [data files](https://github.com/ssciwr/sustainable_development_course/blob/main/downloads/data) and the [main notebook]((https://github.com/ssciwr/sustainable_development_course/blob/main/unit1/src/notebook_unit1.ipynb).
+We will meet on Thursday, March 11th at 12:30 - 3:00 PM for the live lesson. You should have gotten a link via email. You will need a couple of files for the implementation that we will work through in the lesson: [data files](https://github.com/ssciwr/sustainable_development_course/blob/main/downloads/data.zip) and the [main notebook](https://github.com/ssciwr/sustainable_development_course/blob/main/unit1/src/notebook_unit1.ipynb).
 
 During the lesson, we will use [nbstripout](https://github.com/kynan/nbstripout) in conjunction with the [pre-commit package](https://pre-commit.com/).
 
