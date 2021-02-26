@@ -33,7 +33,7 @@ If you run into problems at any point, please contact us via inga.ulusoy@uni-hei
 git config --global user.name "John Doe"
 git config --global user.email johndoe@example.com
 ```
-2. Please download the install script in the github repository, from `unit1/test_install.py`. This will check all the libraries.
+2. Please download the install script in the github repository, from [here](https://github.com/ssciwr/sustainable_development_course/blob/main/downloads/test_install.py) (right-click on the link and select "save file as"). This will check all the libraries.
 3. Move the script to your current folder in the terminal and type  
 `python test_install.py` or run it in your IDE. Two windows with graphs should pop up, the first one saying "testing matplotlib", the second one "testing seaborn", both of them showing a straight line. The output of the script should approximately read  
 ```
@@ -41,7 +41,7 @@ Testing pandas
    a  b  c  
 0  1  2  3  
 1  4  5  6  
-The script took 423.45 seconds to run!
+The script took 2.1 seconds to run!
 ```
 4. It is recommended to use an IDE (Integrated Development Environment). If you do not have one already, [Visual Studio Code](https://visualstudio.microsoft.com/downloads/) is recommended for Windows; [Atom](https://atom.io/) for Linux users, but should also work on Windows or Mac OS. If you have never used an IDE before, you will need to install a couple of additional packages within the editor, such as python language support, linter, terminal, and markdown preview.
 
