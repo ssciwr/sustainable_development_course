@@ -59,3 +59,6 @@ The python module will be completed.
 - A recap of last week’s tasks and discussion of problems that occurred (live lecture, ~30 minutes)
 - Tasks to be solved as teams of 2-3 developers (live lecture, ~2 hours)
 - Tasks to be solved during the week in the software development teams (each team member works asynchronously) (~2 hours)
+
+## Requirements
+You will need python3, git, and numpy/seaborn/pandas/jupyter for the course.
