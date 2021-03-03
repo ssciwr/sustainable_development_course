@@ -16,6 +16,11 @@ If you run into problems at any point, please contact us via inga.ulusoy@uni-hei
 `sudo apt upgrade`  
 1. Install git  
 `sudo apt install git-all`
+1. In your terminal, you need to provide your name and email for your first-time git usage:  
+```
+git config --global user.name "John Doe"
+git config --global user.email johndoe@example.com
+```
 1. Clone the course repository
 `git clone https://github.com/ssciwr/sustainable_development_course.git`
 1. Change into the course directory, into the preparation folder:  
@@ -37,11 +42,14 @@ You will need to type your password/answer with `Y` a couple of times.
 `sudo apt install git-all`
 
 ## All participants  
+If you have not yet done so:
 1. In your terminal, you need to provide your name and email for your first-time git usage:  
 ```
 git config --global user.name "John Doe"
 git config --global user.email johndoe@example.com
 ```
+1. Clone the course repository
+`git clone https://github.com/ssciwr/sustainable_development_course.git`
 1. Please change into the course directory, preparation folder  
 `cd sustainable_development_course/preparation`
 1. Run the installation test script by typing
