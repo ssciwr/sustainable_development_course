@@ -28,6 +28,7 @@ You will be able to obtain a certificate of participation. Basic prior programmi
 In this unit, we will work on jupyter notebooks.
 
 ## 2. Clean coding as a team: Adhere to guidelines and common coding principles
+[Go to unit 1](unit2/README.md)
 1. The programming paradigm: Planning a piece of software
 1. Technical debt and clean coding
 1. Linting and performance of code
