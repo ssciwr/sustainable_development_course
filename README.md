@@ -38,6 +38,7 @@ In this unit, we will work on jupyter notebooks.
 A python module will be developed.
 
 ## 3. Testing, testing, testing ... and writing good documentation
+[Go to unit 3](unit3/README.md)
 1. Types of tests
 1. Unittest and pytest
 1. Test-driven development
