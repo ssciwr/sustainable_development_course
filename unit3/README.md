@@ -30,7 +30,7 @@ where you replace `data/` with the folder containing the data files that are rea
 - Prepare a user account on [readthedocs](https://readthedocs.org/) (this has to be done by the repository owner). You can already try to publish your documentation on RTD; compare to the [documentation of the example repository](https://team0.readthedocs.io/en/latest/index.html)
 
 # 6. Live lesson
-We will meet on Thursday, March 25th at 12:30 - 3:00 PM for the live lesson via the previous link. In addition to that, I have sent you a [youtube link](https://youtu.be/ep9vSsVI26s) for live streaming - please keep both open during the session.
+We will meet on Thursday, March 25th at 12:30 - 3:00 PM for the live lesson via the previous link. In addition to that, I have sent you a [youtube link](https://www.youtube.com/watch?v=lWUpi3q04nA) for live streaming - please keep both open during the session.
 
 During the lesson, we will use [pytest](https://docs.pytest.org/en/stable/), [recommonmark](https://recommonmark.readthedocs.io/en/latest/), and [napoleon](https://www.sphinx-doc.org/en/master/usage/extensions/napoleon.html).
 
