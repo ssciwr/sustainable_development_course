@@ -37,5 +37,5 @@ During the lesson, we will use [pytest](https://docs.pytest.org/en/stable/), [re
 # 7. Asynchronous work in your team
 Continue working on your module(s) during the week and complete the pytest test suite and documentation. Collaborate through GitHub, and use branches, pull request, and request reviews from your team members before merging any branches into main.
 
-# 7. Evaluation of unit 3
+# 8. Evaluation of unit 3
 This is not mandatory, but we would highly appreciate your feedback. Please help us by [answering a couple of questions](https://forms.gle/FoCgR6ZDLC8gjkxB7).
