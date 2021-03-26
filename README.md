@@ -46,8 +46,9 @@ A python module will be developed.
 
 We will continue our work on the python module.
 
-## 4. Continuous integration: github actions
-1. Run your tests and linter automatically through github actions
+## 4. Continuous integration: GitHub actions
+[Go to unit 4](unit4/README.md)
+1. Run your tests and linter automatically through GitHub actions
 1. Build and publish your documentation on readthedocs
 1. Optionally: Publish your python module as a package  
 
