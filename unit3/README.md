@@ -25,6 +25,7 @@ We will meet on Tuesday, March 30th at 12:30 - 3:00 PM for the live lesson via t
 
 During the lesson, we will use [GitHub actions](https://docs.github.com/en/actions), publish our documentation on [readthedocs](https://readthedocs.org/) and publish our packages on [TestPyPi](https://test.pypi.org/).
 
+
 It would also be nice if you could share your generated repositories with other teams, ie. by linking them to the [course project page](https://github.com/users/iulusoy/projects/1). If we have time, you can summarize your packages in a few sentences for the other participants.
 
 # 7. Asynchronous work in your team
