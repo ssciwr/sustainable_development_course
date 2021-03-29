@@ -3,7 +3,7 @@ In unit 4, you will learn about GitHub actions and how to publish a Python packa
 
 When you publish your package, it can be pip installed and then used in ie. jupyter notebooks or more complex software.
 
-Please look [here](unit4/PUBLISH.md) for a few notes on how to publish scientific software.
+Please look [here](PUBLISH.md) for a few notes on how to publish scientific software.
 
 If you run into problems at any point, please contact us via inga.ulusoy@uni-heidelberg.de or [open an issue on github](https://docs.github.com/en/github/managing-your-work-on-github/creating-an-issue).
 
