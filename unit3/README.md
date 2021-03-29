@@ -6,16 +6,16 @@ When you publish your package, it can be pip installed and then used in ie. jupy
 If you run into problems at any point, please contact us via inga.ulusoy@uni-heidelberg.de or [open an issue on github](https://docs.github.com/en/github/managing-your-work-on-github/creating-an-issue).
 
 # 1. Video: Unit 4
-Please watch the [video]() to learn about the basics of GitHub actions.
+Please watch the [video](https://youtu.be/HJ7nG-P0XA0) to learn about the basics of GitHub actions.
 
 # 2. Try out GitHub actions
-Please fork [this repository](https://github.com/iulusoy/actions-example-iulusoy) following the instructions in this [video]() and add a few files to `src` - ie, your custom unittest example that you had come up with in unit 3. Try out creating branches, opening pull requests and manually triggering the workflow to see when it runs. Look at the output of the runs and try to follow the steps. Try what happens to the actions if you format the files so that they are no longer approved by the linter; or make one of your tests fail.
+Please fork [this repository](https://github.com/iulusoy/actions-example-iulusoy) following the instructions in this [video](https://youtu.be/G7Uhh19WBZY) and add a few files to `src` - ie, your custom unittest example that you had come up with in unit 3. Try out creating branches, opening pull requests and manually triggering the workflow to see when it runs. Look at the output of the runs and try to follow the steps. Try what happens to the actions if you format the files so that they are no longer approved by the linter; or make one of your tests fail.
 
 # 3. Tutorial for publishing Python packages
 Follow the steps in [this tutorial](https://packaging.python.org/tutorials/packaging-projects/) to learn how to publish a python package and what you need to consider (ie., [proper naming](https://visualgit.readthedocs.io/en/latest/pages/naming_convention.html) of your package and modules).
 
 # 4. Quiz
-Answer the [questions]() (this is strictly anonymous).
+Answer the [questions](https://forms.gle/NYDYH8wiRXoKN8aE8) (this is strictly anonymous).
 
 # 5. Preparation for the live lesson
 - If you have not yet done so, prepare a user account on [readthedocs](https://readthedocs.org/) (this has to be done by the repository owner). You can already try to publish your documentation on RTD; compare to the [documentation of the example repository](https://team0.readthedocs.io/en/latest/index.html)
@@ -33,4 +33,4 @@ Continue working on your packages during the week and complete the pytest test s
 I would ask you to finish your work on this by the start of the summer semester, April 12th. If for some reason you will need more time, please let me know.
 
 # 7. Evaluation of unit 4
-This is not mandatory, but we would highly appreciate your feedback. Please help us by [answering a couple of questions]()).
+This is not mandatory, but we would highly appreciate your feedback. Please help us by [answering a couple of questions](https://forms.gle/Mk1jj27YMFdqffAG6)).
