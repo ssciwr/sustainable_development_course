@@ -18,7 +18,7 @@ Follow the steps in [this tutorial](https://packaging.python.org/tutorials/packa
 Answer the [questions](https://forms.gle/NYDYH8wiRXoKN8aE8) (this is strictly anonymous).
 
 # 5. Preparation for the live lesson
-- If you have not yet done so, prepare a user account on [readthedocs](https://readthedocs.org/) (this has to be done by the repository owner). You can already try to publish your documentation on RTD; compare to the [documentation of the example repository](https://team0.readthedocs.io/en/latest/index.html)
+If you have not yet done so, prepare a user account on [readthedocs](https://readthedocs.org/) (this has to be done by the repository owner). You can already try to publish your documentation on RTD; compare to the [documentation of the example repository](https://team0.readthedocs.io/en/latest/index.html).
 
 # 6. Live lesson
 We will meet on Tuesday, March 30th at 12:30 - 3:00 PM for the live lesson via the previous link. In addition to that, I will send you a youtube link for live streaming - please keep both open during the session.
@@ -34,4 +34,4 @@ Continue working on your packages during the week and complete the pytest test s
 I would ask you to finish your work on this by the start of the summer semester, April 12th. If for some reason you will need more time, please let me know.
 
 # 7. Evaluation of unit 4
-This is not mandatory, but we would highly appreciate your feedback. Please help us by [answering a couple of questions](https://forms.gle/Mk1jj27YMFdqffAG6)).
+This is not mandatory, but we would highly appreciate your feedback. Please help us by [answering a couple of questions](https://forms.gle/Mk1jj27YMFdqffAG6).
