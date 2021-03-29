@@ -3,12 +3,15 @@ In unit 4, you will learn about GitHub actions and how to publish a Python packa
 
 When you publish your package, it can be pip installed and then used in ie. jupyter notebooks or more complex software.
 
+Please look [here](unit4/PUBLISH.md) for a few notes on how to publish scientific software.
+
 If you run into problems at any point, please contact us via inga.ulusoy@uni-heidelberg.de or [open an issue on github](https://docs.github.com/en/github/managing-your-work-on-github/creating-an-issue).
 
 # 1. Video: Unit 4
 Please watch the [video](https://youtu.be/HJ7nG-P0XA0) to learn about the basics of GitHub actions.
 
 # 2. Try out GitHub actions
+**Please note that you cannot link your repository to the project page, please add it on one of the boards as Team14 did already.**
 Please fork [this repository](https://github.com/iulusoy/actions-example-iulusoy) following the instructions in this [video](https://youtu.be/G7Uhh19WBZY) and add a few files to `src` - ie, your custom unittest example that you had come up with in unit 3. Try out creating branches, opening pull requests and manually triggering the workflow to see when it runs. Look at the output of the runs and try to follow the steps. Try what happens to the actions if you format the files so that they are no longer approved by the linter; or make one of your tests fail.
 
 # 3. Tutorial for publishing Python packages
@@ -24,7 +27,6 @@ If you have not yet done so, prepare a user account on [readthedocs](https://rea
 We will meet on Tuesday, March 30th at 12:30 - 3:00 PM for the live lesson via the previous link. In addition to that, I will send you a youtube link for live streaming - please keep both open during the session.
 
 During the lesson, we will use [GitHub actions](https://docs.github.com/en/actions), publish our documentation on [readthedocs](https://readthedocs.org/) and publish our packages on [TestPyPi](https://test.pypi.org/).
-
 
 It would also be nice if you could share your generated repositories with other teams, ie. by linking them to the [course project page](https://github.com/users/iulusoy/projects/1). If we have time, you can summarize your packages in a few sentences for the other participants.
 
