@@ -1,6 +1,6 @@
 #  Block course: Sustainable Software Development
 
-**Scientific Software Development: Level Up your Skills**
+**Scientific Software Development**
 
 *Scientific Software Center, Heidelberg University*  
 *01/2021*  
