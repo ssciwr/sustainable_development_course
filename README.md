@@ -1,7 +1,6 @@
 #  Block course: Sustainable Software Development
 
-**The Art of Developing Scientific Software: What do you need to make your
-software fly?**
+**Scientific Software Development: Level Up your Skills**
 
 *Scientific Software Center, Heidelberg University*  
 *01/2021*  
@@ -10,16 +9,15 @@ In this course, you will learn how to develop scientific software in a way that 
 students who develop scientific software to carry out their research.
 The course will contain four units spanning four weeks, and consist of both an asynchronous and a synchronous part.  
 
-**Total effort:** Approximately 6 hours/week.  
+**Total effort:** Approximately 30 hours.  
 **Date/Duration:**
-Sessions for the first block course will take place on Tuesday, March 11./18./25./30. with live lecture/discussion from
-12:30-3:00 PM and independent work to be completed between sessions.
+Sessions will take place in six sessions during two weeks in March 2022.
 
 You will be able to obtain a certificate of participation. Basic prior programming knowledge is a requirement, ideally in python as the examples will be based on python. A laptop/PC with camera, microphone and speakers is required.
 
 
 # Units
-## 1. Introduction to git: Using github
+## 1. Introduction to git: Using GitHub
 [Go to unit 1](unit1/README.md)
 1. Creating a new repository
 1. Branching and pull requests
@@ -29,39 +27,46 @@ In this unit, we will work on jupyter notebooks.
 
 ## 2. Clean coding as a team: Adhere to guidelines and common coding principles
 [Go to unit 2](unit2/README.md)
-1. The programming paradigm: Planning a piece of software
 1. Technical debt and clean coding
+1. Style guides
 1. Linting and performance of code
-1. Documentation using sphinx (doxygen)
 1. More on git: “Clean” repositories
 
-A python module will be developed.
+You will work with your team and agree on a set of common standards and principles.
 
-## 3. Testing, testing, testing ... and writing good documentation
-[Go to unit 3](unit3/README.md)
+## 3. Think before you code: Planning your programming project
+1. The programming paradigm
+1. Planning a piece of software: Demonstrations
+
+You and your team will design your software.
+
+## 4. Documentation
+1. A good documentation  
+1. Write documentation like a pro with sphinx (doxygen)
+
+The documentation tools for your software will be set up and structured.
+
+## 5. Testing, testing, testing ... 
+[Go to unit 5](unit3/README.md)
 1. Types of tests
 1. Unittest and pytest
 1. Test-driven development
-1. A good documentation  
 
-We will continue our work on the python module.
+We will continue our work on the programming project.
 
-## 4. Continuous integration: GitHub actions
+## 6. Continuous integration: GitHub actions
 [Go to unit 4](unit4/README.md)
 1. Run your tests and linter automatically through GitHub actions
 1. Build and publish your documentation on readthedocs
-1. Optionally: Publish your python module as a package  
+1. Publish your python module as a package  
 
-Recap and presentation of the implementations/discussion lead by the developer teams.  
-The python module will be completed.
-
+We will set up github actions and you will learn how to publish python modules.
 
 ## Content of each unit
-- A recorded video introducing new topics and concepts (~30-45 minutes)
-- Individual work on the new concepts (~45-60 minutes)
-- A recap of last week’s tasks and discussion of problems that occurred (live lecture, ~30 minutes)
-- Tasks to be solved as teams of 2-3 developers (live lecture, ~2 hours)
-- Tasks to be solved during the week in the software development teams (each team member works asynchronously) (~2 hours)
+- An introducing new topics and concepts (1h)
+- Individual work on the new concepts (1h)
+- A coding demonstration (1h)
+- Tasks to be solved as teams of 2-3 developers (2h)
 
 ## Requirements
 You will need python3, git, and numpy/seaborn/pandas/jupyter for the course.
