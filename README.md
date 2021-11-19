@@ -11,9 +11,9 @@ The course will contain four units spanning four weeks, and consist of both an a
 
 **Total effort:** Approximately 30 hours.  
 **Date/Duration:**
-Sessions will take place in six sessions during two weeks in March 2022.
+Sessions will take place in six sessions during two weeks in March 2022: Specifically, on 1/3/22, 2/3/22, 3/3/22, 8/3/22,9/3/22,10/3/22, from 10:00 AM to 1:00 PM. Please note that there is also an asynchronous part to the course, which you can work on at a time of your choice, but which should be completed before the first/before the subsequent session for a better learning experience. 
 
-You will be able to obtain a certificate of participation. Basic prior programming knowledge is a requirement, ideally in python as the examples will be based on python. A laptop/PC with camera, microphone and speakers is required.
+You will be able to obtain a certificate of participation. Basic prior programming knowledge is a requirement, but the emphasis lies on **basic**; ideally in python as the examples will be based on python. A laptop/PC with camera, microphone and speakers is required.
 
 
 # Units
@@ -63,7 +63,7 @@ We will continue our work on the programming project.
 We will set up github actions and you will learn how to publish python modules.
 
 ## Content of each unit
-- An introducing new topics and concepts (1h)
+- An introduction to new topics and concepts (1h)
 - Individual work on the new concepts (1h)
 - A coding demonstration (1h)
 - Tasks to be solved as teams of 2-3 developers (2h)
