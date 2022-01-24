@@ -1,4 +1,4 @@
-#  Block course: Sustainable Software Development
+#  Block course: Scientific Software Development
 
 **Scientific Software Development**
 
@@ -17,13 +17,16 @@ You will be able to obtain a certificate of participation. Basic prior programmi
 
 
 # Units
-## 1. Introduction to git: Using GitHub
+## 1. Introduction to git: Using git and GitHub
 [Go to unit 1](unit1/README.md)
+1. Git basics
+1. Jupyter notebook basics
 1. Creating a new repository
-1. Branching and pull requests
-1. Code review and merging
+1. Pre-commit hooks
+1. Creating branches
+1. Merging branches
 
-In this unit, we will work on jupyter notebooks.
+In this unit, we will work on jupyter notebooks in our own repositories on GitHub.
 
 ## 2. Clean coding as a team: Adhere to guidelines and common coding principles
 [Go to unit 2](unit2/README.md)
@@ -31,33 +34,42 @@ In this unit, we will work on jupyter notebooks.
 1. Style guides
 1. Linting and performance of code
 1. More on git: “Clean” repositories
+1. Pull requests
+1. Code review and merging
 
-You will work with your team and agree on a set of common standards and principles.
+You will work with your team in your team's repository and agree on a set of common standards and coding principles.
 
 ## 3. Think before you code: Planning your programming project
+[Go to unit 3](unit3/README.md)
 1. The programming paradigm
 1. Planning a piece of software: Demonstrations
 
-You and your team will design your software.
+You and your team will plan your software and implement the design.
 
 ## 4. Documentation
+[Go to unit 4](unit4/README.md)
 1. A good documentation  
-1. Write documentation like a pro with sphinx (doxygen)
+1. Documentation style guides
+1. Set up your documentation with sphinx (doxygen)
+1. Publish your documentation on readthedocs
+1. Publish your documentation on GitHub pages
 
 The documentation tools for your software will be set up and structured.
 
 ## 5. Testing, testing, testing ... 
-[Go to unit 5](unit3/README.md)
+[Go to unit 5](unit5/README.md)
 1. Types of tests
 1. Unittest and pytest
 1. Test-driven development
+1. Writing unit tests using pytest fixtures
 
 We will continue our work on the programming project.
 
 ## 6. Continuous integration: GitHub actions
-[Go to unit 4](unit4/README.md)
+[Go to unit 6](unit6/README.md)
+1. GitHub actions basics
 1. Run your tests and linter automatically through GitHub actions
-1. Build and publish your documentation on readthedocs
+1. Build and publish your documentation through GitHub actions
 1. Publish your python module as a package  
 
 We will set up github actions and you will learn how to publish python modules.

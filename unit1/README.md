@@ -68,13 +68,13 @@ The script took 2.1 seconds to run!
 In unit 1, we will only use Jupyter notebooks - you do not need an IDE for that. So you do not need to worry about the last point above in the first week.
 
 # 1. Video: Unit 1, Part 1
-Please watch the [video](https://youtu.be/TSQjcPAJ9Ds).
+Please watch the [video]().
 
 # 2. Github learning lab
 Create a [github account](https://github.com/) and work through the [github learning lab](https://lab.github.com/githubtraining/introduction-to-github). Please send me your github username so that I can add you to our class project page on github.
 
 # 3. Video: Unit 1, Part 2
-Please watch the [video](https://youtu.be/AoDFzRTS8jQ).
+Please watch the [video]().
 
 # 4. Quiz
 Answer the [questions](https://forms.gle/NXypPT3QbC33NDiW6) (this is strictly anonymous).
