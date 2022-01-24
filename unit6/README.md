@@ -8,11 +8,11 @@ Please look [here](PUBLISH.md) for a few notes on how to publish scientific soft
 If you run into problems at any point, please contact us via inga.ulusoy@uni-heidelberg.de or [open an issue on github](https://docs.github.com/en/github/managing-your-work-on-github/creating-an-issue).
 
 # 1. Video: Unit 4
-Please watch the [video](https://youtu.be/HJ7nG-P0XA0) to learn about the basics of GitHub actions.
+Please watch the [video]() to learn about the basics of GitHub actions.
 
 # 2. Try out GitHub actions
 **Please note that you cannot link your repository to the project page, please add it on one of the boards as Team14 did already.**
-Please fork [this repository](https://github.com/iulusoy/actions-example-iulusoy) following the instructions in this [video](https://youtu.be/G7Uhh19WBZY) and add a few files to `src` - ie, your custom unittest example that you had come up with in unit 3. Try out creating branches, opening pull requests and manually triggering the workflow to see when it runs. Look at the output of the runs and try to follow the steps. Try what happens to the actions if you format the files so that they are no longer approved by the linter; or make one of your tests fail.
+Please fork [this repository](https://github.com/iulusoy/actions-example-iulusoy) following the instructions in this [video]() and add a few files to `src` - ie, your custom unittest example that you had come up with in unit 3. Try out creating branches, opening pull requests and manually triggering the workflow to see when it runs. Look at the output of the runs and try to follow the steps. Try what happens to the actions if you format the files so that they are no longer approved by the linter; or make one of your tests fail.
 
 # 3. Tutorial for publishing Python packages
 Follow the steps in [this tutorial](https://packaging.python.org/tutorials/packaging-projects/) to learn how to publish a python package and what you need to consider (ie., [proper naming](https://visualgit.readthedocs.io/en/latest/pages/naming_convention.html) of your package and modules).

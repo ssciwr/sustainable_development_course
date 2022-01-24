@@ -5,13 +5,13 @@ In unit 2, you will practice planning of a piece of software, and collaborativel
 If you run into problems at any point, please contact us via inga.ulusoy@uni-heidelberg.de or [open an issue on github](https://docs.github.com/en/github/managing-your-work-on-github/creating-an-issue).
 
 # 1. Video: Unit 2, Part 1
-Please watch the [video](https://youtu.be/DlvdckeZve8) to learn about planning your software, best coding practices, and how you can use a docstring for your documentation.
+Please watch the [video]() to learn about planning your software, best coding practices, and how you can use a docstring for your documentation.
 
 # 2. Sketch your module
 On a piece of paper, sketch out the data flow in your python module(s). Do this without your team, only considering your pieces, while you still want to keep it as general as possible as you already know that other pieces will be added to it.
 
 # 3. Video: Unit 2, Part 2
-Please watch the [video](https://youtu.be/tG2EZdlOXFA) - you will learn about keeping your git repository clean, and how to set up an IDE, in this case Visual Studio Code OR Atom.
+Please watch the [video]() - you will learn about keeping your git repository clean, and how to set up an IDE, in this case Visual Studio Code OR Atom.
 
 # 4. Quiz
 Answer the [questions](https://forms.gle/b5Mn9Q7gs1EugViJ8) (this is strictly anonymous).
