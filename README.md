@@ -1,32 +1,35 @@
 #  Block course: Scientific Software Development
 
-**Scientific Software Development**
-
-*Scientific Software Center, Heidelberg University*  
+*Scientific Software Center, Heidelberg University, Dr. Inga Ulusoy*  
 *01/2021*  
 
 In this course, you will learn how to develop scientific software in a way that enables reproducible research and sustainable software. Sustainable scientific software leaves room for further, subsequent implementations and method development, and saves time and effort in the long run; in addition to adhering to good scientific practice through making results reproducible. This course is aimed at researchers, doctoral and master
-students who develop scientific software to carry out their research.
-The course will contain four units spanning four weeks, and consist of both an asynchronous and a synchronous part.  
+students who develop scientific software to carry out their research. The course is held online and consist of both an asynchronous and a synchronous part.  
 
+**Learning outcome:** At the end of the course, the students will be able to develop their own scientific software sustainably and generate reproducible results, in accordance with best scientific practices.  
 **Total effort:** Approximately 30 hours.  
-**Date/Duration:**
-Sessions will take place in six sessions during two weeks in March 2022: Specifically, on 1/3/22, 2/3/22, 3/3/22, 8/3/22,9/3/22,10/3/22, from 10:00 AM to 1:00 PM. Please note that there is also an asynchronous part to the course, which you can work on at a time of your choice, but which should be completed before the first/before the subsequent session for a better learning experience. 
+**Date/Duration:** Sessions will take place on six days during two weeks in March 2022: Specifically, on 1/3/22, 2/3/22, 3/3/22, 8/3/22,9/3/22,10/3/22, from 10:00 AM to 1:00 PM. Please note that there is also an asynchronous part to the course, which you can work on at a time of your choice, but which should be completed before the first/before the subsequent session for a better learning experience.  
+**Course certificate:** You will be able to obtain a certificate of participation.  
+**Course requirements:** Basic prior programming knowledge, where the emphasis lies on **basic**; ideally in Python as the examples will be based on Python. A laptop/PC with camera, microphone and speakers is required so that you can interact with the instructor and your teammates.
 
-You will be able to obtain a certificate of participation. Basic prior programming knowledge is a requirement, but the emphasis lies on **basic**; ideally in python as the examples will be based on python. A laptop/PC with camera, microphone and speakers is required.
-
+# Content of each unit
+- An introduction to new topics and concepts (1h)
+- Individual work on the new concepts (1h)
+- A coding demonstration (1h)
+- Tasks to be solved as teams of 2-3 developers (2h)
 
 # Units
 ## 1. Introduction to git: Using git and GitHub
 [Go to unit 1](unit1/README.md)
 1. Git basics
 1. Jupyter notebook basics
-1. Creating a new repository
+1. Creating a new repository: git
+1. Creating a new repository: GitHub
 1. Pre-commit hooks
 1. Creating branches
 1. Merging branches
 
-In this unit, we will work on jupyter notebooks in our own repositories on GitHub.
+In this unit, we will work with jupyter notebooks in our own repositories on GitHub.
 
 ## 2. Clean coding as a team: Adhere to guidelines and common coding principles
 [Go to unit 2](unit2/README.md)
@@ -42,9 +45,10 @@ You will work with your team in your team's repository and agree on a set of com
 ## 3. Think before you code: Planning your programming project
 [Go to unit 3](unit3/README.md)
 1. The programming paradigm
+1. Planning a piece of software: Do's and don'ts
 1. Planning a piece of software: Demonstrations
 
-You and your team will plan your software and implement the design.
+You and your team will plan your software and start implementing the design.
 
 ## 4. Documentation
 [Go to unit 4](unit4/README.md)
@@ -62,6 +66,7 @@ The documentation tools for your software will be set up and structured.
 1. Unittest and pytest
 1. Test-driven development
 1. Writing unit tests using pytest fixtures
+1. Pytest: Demonstrations
 
 We will continue our work on the programming project.
 
@@ -72,13 +77,7 @@ We will continue our work on the programming project.
 1. Build and publish your documentation through GitHub actions
 1. Publish your python module as a package  
 
-We will set up github actions and you will learn how to publish python modules.
+We will set up GitHub actions and you will learn how to publish Python modules.
 
-## Content of each unit
-- An introduction to new topics and concepts (1h)
-- Individual work on the new concepts (1h)
-- A coding demonstration (1h)
-- Tasks to be solved as teams of 2-3 developers (2h)
-
-## Requirements
+## Software requirements
 You will need python3, git, and numpy/seaborn/pandas/jupyter for the course.
