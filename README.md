@@ -22,12 +22,12 @@ students who develop scientific software to carry out their research. The course
 ## 1. Introduction to git: Using git and GitHub
 [Go to unit 1](unit1/README.md)
 1. Git basics
-1. Jupyter notebook basics
+1. GitHub basics
 1. Creating a new repository: git
 1. Creating a new repository: GitHub
+1. Creating and merging branches
+1. Jupyter Notebooks
 1. Pre-commit hooks
-1. Creating branches
-1. Merging branches
 
 In this unit, we will work with jupyter notebooks in our own repositories on GitHub.
 
@@ -35,6 +35,7 @@ In this unit, we will work with jupyter notebooks in our own repositories on Git
 [Go to unit 2](unit2/README.md)
 1. Technical debt and clean coding
 1. Style guides
+1. Working with an IDE
 1. Linting and performance of code
 1. More on git: “Clean” repositories
 1. Pull requests
