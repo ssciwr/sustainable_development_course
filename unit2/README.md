@@ -5,18 +5,24 @@ In unit 2, you will practice collaborative software development using git, GitHu
 If you run into problems at any point, please contact us via inga.ulusoy@uni-heidelberg.de or [open an issue on github](https://docs.github.com/en/github/managing-your-work-on-github/creating-an-issue).
 
 # 1. Video: Unit 2, Part 1
-Please watch the [video]() to learn about 
+Please watch the [video]() to learn about technical debt, coding best practices and Python style guides.
 
-# 3. Video: Unit 2, Part 2
-Please watch the [video]() - you will learn about keeping your git repository clean, and how to set up an IDE, in this case Visual Studio Code.
+# 2. Style Guides
+Go to the [PEP-8 style guide](https://pep8.org/) and read through these sections: [Code Layout, ](https://pep8.org/#code-lay-out), [Naming Conventions](https://pep8.org/naming-conventions). You may read more or also peruse the [google recommendations](https://google.github.io/styleguide/pygui).
 
-# 4. Quiz
-Answer the [questions](https://forms.gle/b5Mn9Q7gs1EugViJ8) (this is strictly anonymous).
+The recommendations for naming, especially naming of modules, is very important if you want to publish your package in the Python Package Index PyPI.
+
+# 3. Working with an IDE
+Download and install [Visual Studio Code](https://code.visualstudio.com/) or another IDE of your choice. Work through this [page about VSCode with Python](https://code.visualstudio.com/docs/python/python-tutorial).
+
+
+# 4. Video: Unit 2, Part 2
+Please watch the [video]() - you will learn about linting, performance of code, keeping your git repository clean, and pull requests.
+
 
 # 5. Live lesson
 We will meet on Wednesday, March 2nd at 10:00 AM - 1:00 PM for the live lesson via the previous link. 
 
-During the lesson, we will use [flake8](https://pypi.org/project/flake8/).
 
 # 6. Asynchronous work in your team
 Continue working on your Notebooks. Collaborate through GitHub, and use branches, pull request, and request reviews from your team members before merging any branches into main.
