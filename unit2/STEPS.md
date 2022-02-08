@@ -1,4 +1,4 @@
-# The required commands in live session 1
+# The required commands in live session 2
 ## Jupyter notebook in an IDE
 
 ## Linting
