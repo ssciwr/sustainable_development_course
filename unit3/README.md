@@ -1,9 +1,9 @@
 # Unit 3: Think before you code: Planning your programming project
-In unit 3, you will learn how to better plan your software. I will demonstrate different programming paradigms on an example.
+In unit 3, you will learn how to better plan your software. I will demonstrate different programming styles with an example.
 
 If you run into problems at any point, please contact us via inga.ulusoy@uni-heidelberg.de or [open an issue on github](https://docs.github.com/en/github/managing-your-work-on-github/creating-an-issue).
 
-# 1. Video: Unit 3, Part 1
+# 1. Video: Unit 3
 Please watch the [video]() to learn about software design and programming paradigms.
 
 # 2. Programming paradigms
