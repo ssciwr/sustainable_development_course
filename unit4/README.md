@@ -6,11 +6,14 @@ If you run into problems at any point, please contact us via inga.ulusoy@uni-hei
 # 1. Video: Unit 4
 Please watch the [video]() to learn about the importance and ingredients of a good documentation.
 
-# 2. Example documentation
-Set up the sphinx documentation on either [readthedocs](https://readthedocs.org/)(RTD) or [GitHub pages](https://pages.github.com/) for your example code - computation of the factorial - from unit 3.
+# 2. readthedocs
+Please create a user account on [readthedocs]()
 
-# 3. Live lesson
+# 3. GitHub pages
+Please complete the learning lab on [how to set up GitHub pages](https://lab.github.com/githubtraining/github-pages).
+
+# 4. Live lesson
 During the live lesson, you will set up the documentation for your python package together with your team.
 
-# 4. Asynchronous work in your team
+# 5. Asynchronous work in your team
 Continue to develop your documentation into something that is worth showing others. Look at the other team's documentations and identify aspects that raise your interest for their software.
