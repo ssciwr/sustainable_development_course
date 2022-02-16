@@ -7,27 +7,24 @@ Please look [here](PUBLISH.md) for a few notes on how to publish scientific soft
 
 If you run into problems at any point, please contact us via inga.ulusoy@uni-heidelberg.de or [open an issue on github](https://docs.github.com/en/github/managing-your-work-on-github/creating-an-issue).
 
-# 1. Video: Unit 4
+# 1. Video: Unit 6, part 1
 Please watch the [video]() to learn about the basics of GitHub actions.
 
 # 2. Try out GitHub actions
-**Please note that you cannot link your repository to the project page, please add it on one of the boards as Team14 did already.**
-Please fork [this repository](https://github.com/iulusoy/actions-example-iulusoy) following the instructions in this [video]() and add a few files to `src` - ie, your custom unittest example that you had come up with in unit 3. Try out creating branches, opening pull requests and manually triggering the workflow to see when it runs. Look at the output of the runs and try to follow the steps. Try what happens to the actions if you format the files so that they are no longer approved by the linter; or make one of your tests fail.
+Please **fork** [this repository](https://github.com/iulusoy/actions-example-iulusoy) and add a few files to `src` - ie, your custom unittest example that you had come up with in unit 5. Try out creating branches, opening pull requests and manually triggering the workflow to see when it runs. Look at the output of the runs and try to follow the steps. 
 
-# 3. Tutorial for publishing Python packages
+# 3. Video: Unit 6, part 2
+Please watch the [video]() to learn how to run the linter and unit tests automatically through GitHub actions, and how your documentation can automatically be updated on readthedocs/GitHub pages.
+
+# 4. Tutorial for publishing Python packages
 Follow the steps in [this tutorial](https://packaging.python.org/tutorials/packaging-projects/) to learn how to publish a python package and what you need to consider (ie., [proper naming](https://visualgit.readthedocs.io/en/latest/pages/naming_convention.html) of your package and modules).
 
-# 4. Preparation for the live lesson
-If you have not yet done so, prepare a user account on [readthedocs](https://readthedocs.org/) (this has to be done by the repository owner). You can already try to publish your documentation on RTD; compare to the [documentation of the example repository](https://team0.readthedocs.io/en/latest/index.html).
-
 # 5. Live lesson
-We will meet on Tuesday, March 30th at 12:30 - 3:00 PM for the live lesson via the previous link. In addition to that, I will send you a youtube link for live streaming - please keep both open during the session.
+We will meet on Thursday, March 10th at 10:00 AM to 1:00 PM for the live lesson via the previous link. 
 
 During the lesson, we will use [GitHub actions](https://docs.github.com/en/actions), publish our documentation on [readthedocs](https://readthedocs.org/) and publish our packages on [TestPyPi](https://test.pypi.org/).
 
-It would also be nice if you could share your generated repositories with other teams, ie. by linking them to the [course project page](https://github.com/users/iulusoy/projects/1). If we have time, you can summarize your packages in a few sentences for the other participants.
-
 # 6. Asynchronous work in your team
-Continue working on your packages during the week and complete the pytest test suite and sphinx documentation, as well as the set-up for GitHub actions. Collaborate through GitHub, and use branches, pull request, and request reviews from your team members before merging any branches into main.
+Continue working on your packages and complete the pytest test suite and sphinx documentation, as well as the set-up for GitHub actions. Collaborate through GitHub, and use branches, pull request, and request reviews from your team members before merging any branches into main.
 
-I would ask you to finish your work on this by the start of the summer semester, April 12th. If for some reason you will need more time, please let me know.
+I would ask you to finish your work on this by April 12th. If for some reason you will need more time, please let me know.

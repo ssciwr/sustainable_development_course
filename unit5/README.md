@@ -1,4 +1,4 @@
-# Unit 5: Testing, testing, testing ... and writing good documentation
+# Unit 5: Testing, testing, testing ...
 In unit 5, you will learn about types of tests, and implement unit tests for your developed python module.
 
 If you run into problems at any point, please contact us via inga.ulusoy@uni-heidelberg.de or [open an issue on github](https://docs.github.com/en/github/managing-your-work-on-github/creating-an-issue).
