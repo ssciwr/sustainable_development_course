@@ -77,6 +77,7 @@ We will continue our work on the programming project.
 1. Run your tests and linter automatically through GitHub actions
 1. Build and publish your documentation through GitHub actions
 1. Publish your python module as a package  
+1. Considerations when publishing your research and your software
 
 We will set up GitHub actions and you will learn how to publish Python modules.
 

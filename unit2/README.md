@@ -15,17 +15,12 @@ The recommendations for naming, especially naming of modules, is very important 
 # 3. Working with an IDE
 Download and install [Visual Studio Code](https://code.visualstudio.com/) or another IDE of your choice. Work through this [page about VSCode with Python](https://code.visualstudio.com/docs/python/python-tutorial).
 
-
 # 4. Video: Unit 2, Part 2
 Please watch the [video]() - you will learn about linting, performance of code, keeping your git repository clean, and pull requests.
-
 
 # 5. Live lesson
 We will meet on Wednesday, March 2nd at 10:00 AM - 1:00 PM for the live lesson via the previous link. 
 
-
 # 6. Asynchronous work in your team
 Continue working on your Notebooks. Collaborate through GitHub, and use branches, pull request, and request reviews from your team members before merging any branches into main.
 
-# 7. Evaluation of unit 2
-This is not mandatory, but we would highly appreciate your feedback. Please help us by [answering a couple of questions](https://forms.gle/myvRaYH7xTocHp1WA).
