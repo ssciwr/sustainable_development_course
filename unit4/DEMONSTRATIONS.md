@@ -1,1 +1,1 @@
-The demonstrations take part in the beginning of the life session. In unit 4, it will be demonstrated
+The demonstrations take part in the beginning of the life session. In unit 4, it will be demonstrated how to set up the documentation using sphinx.

@@ -13,6 +13,8 @@ Please create a user account on [readthedocs]()
 Please complete the learning lab on [how to set up GitHub pages](https://lab.github.com/githubtraining/github-pages).
 
 # 4. Live lesson
+We will meet on Tuesday, March 8th at 10:0 AM to 1:00 PM for the live lesson via the previous link.
+
 During the live lesson, you will set up the documentation for your python package together with your team.
 
 # 5. Asynchronous work in your team
