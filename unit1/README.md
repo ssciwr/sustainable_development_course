@@ -1,6 +1,6 @@
 # Unit 1: Introduction to git: Using git and GitHub
 
-In unit 1, you will learn and practice the git basics. Before we start, there are a few items that you will need to work through, to ensure your computer is set up with everything we need for the course. See the steps to do se [here](PREPARATION.md).
+In unit 1, you will learn and practice the git basics. Before we start, there are a few items that you will need to work through, to ensure your computer is set up with everything we need for the course. See the steps to do so [here](PREPARATION.md).
 
 If you run into problems at any point, please contact us via inga.ulusoy@uni-heidelberg.de or [open an issue on GitHub](https://github.com/ssciwr/sustainable_development_course/issues) (see [how to create an issue](https://docs.github.com/en/github/managing-your-work-on-github/creating-an-issue)).
 
@@ -21,4 +21,4 @@ We will meet on Tuesday, March 10th at 10:00 AM - 1:00 PM for the live lesson. Y
 During the lesson, we will use [nbstripout](https://github.com/kynan/nbstripout) in conjunction with the [pre-commit package](https://pre-commit.com/).
 
 # 5. Asynchronous work in your team
-Continue working on your notebook during the week and complete the remaining tasks. Collaborate through github, and use branches, pull request, and request reviews from your team members before merging any branches into main.
+Continue working on your notebook. Commit your changes to your GitHub repo.

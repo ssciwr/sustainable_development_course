@@ -2,6 +2,7 @@
 ## Jupyter notebook in an IDE
 
 ## Linting
+add linter to pre-commit hooks
 
 ## Performance of code
 

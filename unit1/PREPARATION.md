@@ -10,18 +10,6 @@
 `sudo apt upgrade`  
 1. Install git  
 `sudo apt install git-all`
-1. In your terminal, you need to provide your name and email for your first-time git usage:  
-```
-git config --global user.name "John Doe"
-git config --global user.email johndoe@example.com
-```
-1. Clone the course repository
-`git clone https://github.com/ssciwr/sustainable_development_course.git`
-1. Change into the course directory, into the preparation folder:  
-`cd sustainable_development_course/preparation`
-1. Run the install script; this will install necessary libraries etc. for you:  
-`source install.sh`  
-You will need to type your password/answer with `Y` a couple of times.
 
 ### Option B
 1. Install [git for Windows](https://git-scm.com/download/win).
@@ -46,10 +34,14 @@ git config --global user.email johndoe@example.com
 `git clone https://github.com/ssciwr/sustainable_development_course.git`
 1. Please change into the course directory, preparation folder  
 `cd sustainable_development_course/preparation`
+1. Run the install script; this will install necessary libraries etc. for you:  
+`source install.sh`  
+You will need to type your password/answer with Y a couple of times.
+
 1. Run the installation test script by typing
 `python test_install.py` or  
 `python3 test_install.py` or  
-run it in your IDE. Two windows with graphs should pop up, the first one saying "testing matplotlib", the second one "testing seaborn", both of them showing a straight line. The output of the script should approximately read  
+run it in your IDE. Two windows with graphs should pop up, the first one saying "testing matplotlib", the second one "testing seaborn", both of them showing a straight line, and you need to close the windows using the "x". The output of the script should approximately read  
 ```
 Testing pandas  
    a  b  c  
@@ -57,6 +49,3 @@ Testing pandas
 1  4  5  6  
 The script took 2.1 seconds to run!
 ```
-1. It is recommended to use an IDE (Integrated Development Environment). If you do not have one already, [Visual Studio Code](https://visualstudio.microsoft.com/downloads/) is recommended for Windows and Linux users. If you have never used an IDE before, you will need to install a couple of additional packages within the editor, such as python language support, linter, terminal, and markdown preview. Python (i.e. [Anaconda](https://docs.anaconda.com/anaconda/install/windows/)) and [git](https://git-scm.com/download/win) need to be installed too.
-
-In unit 1, we will only use Jupyter notebooks - you do not need an IDE for that. So you do not need to worry about the IDE in the first week.

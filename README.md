@@ -3,7 +3,7 @@
 *Scientific Software Center, Heidelberg University, Dr. Inga Ulusoy*  
 *01/2021*  
 
-In this course, you will learn how to develop scientific software in a way that enables reproducible research and sustainable software. Sustainable scientific software leaves room for further, subsequent implementations and method development, and saves time and effort in the long run; in addition to adhering to good scientific practice through making results reproducible. This course is aimed at researchers, doctoral and master
+In this course, you will learn how to develop scientific software in a way that enables reproducible research and sustainable software. Sustainable scientific software leaves room for further, subsequent implementations and method development, and saves time and effort in the long run; additionally, a sustainable approach follows good scientific practice through making results reproducible. This course is aimed at researchers, doctoral and master
 students who develop scientific software to carry out their research. The course is held online and consist of both an asynchronous and a synchronous part.  
 
 **Learning outcome:** At the end of the course, the students will be able to develop their own scientific software sustainably and generate reproducible results, in accordance with best scientific practices.  
@@ -29,7 +29,7 @@ students who develop scientific software to carry out their research. The course
 1. Jupyter Notebooks
 1. Pre-commit hooks
 
-In this unit, we will work with jupyter notebooks in our own repositories on GitHub.
+In this unit, we will work with Jupyter notebooks in our own repositories on GitHub.
 
 ## 2. Clean coding as a team: Adhere to guidelines and common coding principles
 [Go to unit 2](unit2/README.md)
