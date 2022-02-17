@@ -4,6 +4,8 @@ In unit 1, you will learn and practice the git basics. Before we start, there ar
 
 If you run into problems at any point, please contact us via inga.ulusoy@uni-heidelberg.de or [open an issue on GitHub](https://github.com/ssciwr/sustainable_development_course/issues) (see [how to create an issue](https://docs.github.com/en/github/managing-your-work-on-github/creating-an-issue)).
 
+The slides for this session are found [here](./unit1_SSD_SSC.pdf). The demonstrations are listed [here](./DEMONSTRATIONS.md) and the necessary commands for the live lession are summarized [here](./STEPS.md).
+
 # 1. Video: Unit 1, Part 1
 Please watch the [video]() for an introduction to git, GitHub and Jupyter notebooks.
 

@@ -76,10 +76,10 @@ We will continue our work on the programming project.
 1. GitHub actions basics
 1. Run your tests and linter automatically through GitHub actions
 1. Build and publish your documentation through GitHub actions
-1. Publish your python module as a package  
 1. Considerations when publishing your research and your software
+1. Optional: Publish your python module as a package  
 
-We will set up GitHub actions and you will learn how to publish Python modules.
+We will set up GitHub actions and you will learn how to publish your software.
 
 ## Software requirements
-You will need python3, git, and numpy/seaborn/pandas/jupyter for the course.
+You will need Python3, git, and numpy/seaborn/pandas/jupyter for the course.

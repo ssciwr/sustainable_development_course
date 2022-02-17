@@ -3,6 +3,8 @@ In unit 5, you will learn about types of tests, and implement unit tests for you
 
 If you run into problems at any point, please contact us via inga.ulusoy@uni-heidelberg.de or [open an issue on github](https://docs.github.com/en/github/managing-your-work-on-github/creating-an-issue).
 
+The slides for this session are found [here](./unit5_SSD_SSC.pdf). The demonstrations are listed [here](./DEMONSTRATIONS.md) and the necessary commands for the live lession are summarized [here](./STEPS.md).
+
 # 1. Video: Unit 5, part 1
 Please watch the [video]() to learn about the importance of software testing, types of software tests, test-driven development and the unittest module.
 

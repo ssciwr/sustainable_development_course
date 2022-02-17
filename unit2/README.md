@@ -15,6 +15,8 @@ The recommendations for naming, especially naming of modules, is very important 
 # 3. Working with an IDE
 Download and install [Visual Studio Code](https://code.visualstudio.com/) or another IDE of your choice. Work through this [page about VSCode with Python](https://code.visualstudio.com/docs/python/python-tutorial).
 
+The slides for this session are found [here](./unit2_SSD_SSC.pdf). The demonstrations are listed [here](./DEMONSTRATIONS.md) and the necessary commands for the live lession are summarized [here](./STEPS.md).
+
 # 4. Video: Unit 2, Part 2
 Please watch the [video]() - you will learn about linting, performance of code, keeping your git repository clean, and pull requests.
 
