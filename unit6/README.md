@@ -5,7 +5,7 @@ When you publish your package, it can be pip installed and then used in ie. jupy
 
 Please look [here](PUBLISH.md) for a few notes on how to publish scientific software.
 
-If you run into problems at any point, please contact us via inga.ulusoy@uni-heidelberg.de or [open an issue on github](https://docs.github.com/en/github/managing-your-work-on-github/creating-an-issue).
+If you run into problems at any point, please contact us via inga.ulusoy@uni-heidelberg.de or [open an issue on github](https://github.com/ssciwr/sustainable_development_course/issues).
 
 The slides for this session are found [here](./unit6_SSD_SSC.pdf). The demonstrations are listed [here](./DEMONSTRATIONS.md) - for unit 6, you can request demonstrations: What would you like to see again? Is there something that you would like to learn more about? The necessary commands for the live lession are listed [here](./STEPS.md).
 
@@ -18,7 +18,7 @@ Please **fork** [this repository](https://github.com/iulusoy/actions-example-iul
 # 3. Video: Unit 6, part 2
 Please watch the [video]() to learn how to run the linter and unit tests automatically through GitHub actions, and how your documentation can automatically be updated on readthedocs/GitHub pages. Follow through the steps with your GitHub repo from (2.).
 
-# 4. Pub;lishing a Python package: Optional
+# 4. Publishing a Python package: Optional
 Follow the steps in [this tutorial](https://packaging.python.org/tutorials/packaging-projects/) to learn how to publish a python package and what you need to consider (ie., [proper naming](https://visualgit.readthedocs.io/en/latest/pages/naming_convention.html) of your package and modules).
 
 # 5. Live lesson

@@ -1,7 +1,7 @@
 # Unit 4: Documentation
 In unit 4, you will learn how to semi-automatically generate a documentation for your code, and what you need for a good documentation. Documenting your software is crucial if you want to attract users and collaborators.
 
-If you run into problems at any point, please contact us via inga.ulusoy@uni-heidelberg.de or [open an issue on github](https://docs.github.com/en/github/managing-your-work-on-github/creating-an-issue).
+If you run into problems at any point, please contact us via inga.ulusoy@uni-heidelberg.de or [open an issue on github](https://github.com/ssciwr/sustainable_development_course/issues).
 
 The slides for this session are found [here](./unit4_SSD_SSC.pdf). The demonstrations are listed [here](./DEMONSTRATIONS.md) and the necessary commands for the live lession are summarized [here](./STEPS.md).
 
@@ -9,7 +9,7 @@ The slides for this session are found [here](./unit4_SSD_SSC.pdf). The demonstra
 Please watch the [video]() to learn about the importance and ingredients of a good documentation.
 
 # 2. readthedocs
-Please create a user account on [readthedocs]()
+Please create a user account on [readthedocs](https://readthedocs.org/).
 
 # 3. GitHub pages
 Please complete the learning lab on [how to set up GitHub pages](https://lab.github.com/githubtraining/github-pages).

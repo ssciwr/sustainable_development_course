@@ -1,7 +1,7 @@
 # Unit 3: Think before you code: Planning your programming project
 In unit 3, you will learn how to better plan your software. I will demonstrate different programming styles with an example.
 
-If you run into problems at any point, please contact us via inga.ulusoy@uni-heidelberg.de or [open an issue on github](https://docs.github.com/en/github/managing-your-work-on-github/creating-an-issue).
+If you run into problems at any point, please contact us via inga.ulusoy@uni-heidelberg.de or [open an issue on github](https://github.com/ssciwr/sustainable_development_course/issues).
 
 The slides for this session are found [here](./unit3_SSD_SSC.pdf). The demonstrations are listed [here](./DEMONSTRATIONS.md) and the necessary commands for the live lession are summarized [here](./STEPS.md).
 
