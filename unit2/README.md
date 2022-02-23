@@ -7,7 +7,7 @@ If you run into problems at any point, please contact us via inga.ulusoy@uni-hei
 The slides for this session are found [here](./unit2_SSD_SSC.pdf). The demonstrations are listed [here](./DEMONSTRATIONS.md) and the necessary commands for the live lession are summarized [here](./STEPS.md).
 
 # 1. Video: Unit 2, Part 1
-Please watch the [video]() to learn about technical debt, coding best practices and Python style guides.
+Please watch the [video](https://youtu.be/OqqM6NETPg0) to learn about technical debt, coding best practices and Python style guides.
 
 # 2. Style Guides
 Go to the [PEP-8 style guide](https://pep8.org/) and read through these sections: [Code Layout](https://pep8.org/#code-lay-out), [Naming Conventions](https://pep8.org/#naming-conventions). You may read more or also peruse the [google recommendations](https://google.github.io/styleguide/pyguide.html).

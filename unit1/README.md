@@ -7,7 +7,7 @@ If you run into problems at any point, please contact us via inga.ulusoy@uni-hei
 The slides for this session are found [here](./unit1_SSD_SSC.pdf). The demonstrations are listed [here](./DEMONSTRATIONS.md) and the necessary commands for the live lession are summarized [here](./STEPS.md).
 
 # 1. Video: Unit 1, Part 1
-Please watch the [video]() for an introduction to git, GitHub and Jupyter notebooks.
+Please watch the [video](https://youtu.be/-BJgYWMRZf4) for an introduction to git, GitHub and Jupyter notebooks.
 
 # 2. Play Oh My Git!
 Go to [Oh My Git!](https://ohmygit.org/) and download the game. Follow the instructions and have fun with git!
