@@ -1,27 +1,35 @@
-import sys
 import argparse
 import numpy as np
 
 # object-oriented programming style
 
+
 class in_out:
     """Contains the input and output methods."""
+
     def __init__(self) -> None:
         self.parse_command_line()
 
     def parse_command_line(self):
         """Function to parse user input. User input is a float and a string.
         :Returns: area of the circle (float)"""
-        parser = argparse.ArgumentParser(description="""Program to calculate 
+        parser = argparse.ArgumentParser(
+            description="""Program to calculate 
             area of circle. Check -h or --help for options.
-            Usage: ./main.py -r 4""")
-        parser.add_argument("-r", "--radius", default=3.0, help="Radius of the \
+            Usage: ./main.py -r 4"""
+        )
+        parser.add_argument(
+            "-r",
+            "--radius",
+            default=3.0,
+            help="Radius of the \
             circle, in cm. \
-            Default value: 3.0 cm")
+            Default value: 3.0 cm",
+        )
         args = parser.parse_args()
         self.r = float(args.radius)
 
-    def print_out(self, area_out)->None:
+    def print_out(self, area_out) -> None:
         """Function to print output."""
         if self.r == None:
             raise AttributeError("Radius was not provided!")
@@ -31,12 +39,13 @@ class in_out:
         print("Area A = {:4.2f}cm2.".format(area_out))
 
 
-class transform():
+class transform:
     """Contains the data transformation."""
-    def __init__(self,r_in) -> None:
+
+    def __init__(self, r_in) -> None:
         self.r = r_in
 
-    def area_circ(self)->float:
+    def area_circ(self) -> float:
         """Calculates the area of a circle with given radius.
 
         :Input: The radius of the circle (float, >=0).

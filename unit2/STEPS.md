@@ -37,7 +37,10 @@ Run using `black` on your notebook file.
 
 ## Add linter to pre-commit hooks
 You should add the linter and code formatter to your pre-commit hooks. Use the code formatter first and then the linter. The linter will detect syntax errors as well, so even though you reformat your code, you may still get an error for the linter as it detects a "bug". 
-
+Install the pre-commit hook for black-nb:
+```
+python -m pip install black_nbconvert
+```
 For `black`, you need to add the following lines to your `.pre-commit-config.yaml`:
 ```
   - repo: https://github.com/psf/black

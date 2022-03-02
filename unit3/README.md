@@ -6,7 +6,7 @@ If you run into problems at any point, please contact us via inga.ulusoy@uni-hei
 The slides for this session are found [here](./unit3_SSD_SSC.pdf). The demonstrations are listed [here](./DEMONSTRATIONS.md) and the necessary commands for the live lession are summarized [here](./STEPS.md).
 
 # 1. Video: Unit 3
-Please watch the [video]() to learn about software design and programming paradigms.
+Please watch the [video](https://youtu.be/rzOvoTUYtAI) to learn about software design and programming paradigms.
 
 # 2. Programming paradigms
 Take a small example as in the video, for example the [factorial of a given number](https://en.wikipedia.org/wiki/Factorial), and try to implement it using two different paradigms. Can you identify advantages and disadvantages of one or the other paradigm in your specific example?

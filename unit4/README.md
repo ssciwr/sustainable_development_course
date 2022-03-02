@@ -6,7 +6,7 @@ If you run into problems at any point, please contact us via inga.ulusoy@uni-hei
 The slides for this session are found [here](./unit4_SSD_SSC.pdf). The demonstrations are listed [here](./DEMONSTRATIONS.md) and the necessary commands for the live lession are summarized [here](./STEPS.md).
 
 # 1. Video: Unit 4
-Please watch the [video]() to learn about the importance and ingredients of a good documentation.
+Please watch the [video](https://youtu.be/61JeWEU8dpI) to learn about the importance and ingredients of a good documentation.
 
 # 2. readthedocs
 Please create a user account on [readthedocs](https://readthedocs.org/).
