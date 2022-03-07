@@ -4,6 +4,7 @@ Install the extensions: Jupyter; Jupyter Keymap; Jupyter Notebook Renderers.
 
 I also use these relevant extensions additionally, which may be useful to you: GitHub Pull Requests and Issues; Preview; Python; Pylance; YAML
 
+To review notebooks on GitHub, you can use the [reviewnb](https://www.reviewnb.com/) GitHub extension.
 ## Linting
 First, install the linter:
 ```
@@ -54,6 +55,11 @@ To reformat notebooks with `black`:
     rev: v0.3.0
     hooks:
       - id: black_nbconvert
+```
+Black_nbconvert seems to fail for some participants. Please check the Python and black versions using these commands:
+```
+python --version
+black --version
 ```
 For `flake8`: 
 ```

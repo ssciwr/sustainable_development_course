@@ -1,20 +1,62 @@
 # The required commands in live session 4
+
+## Sphinx
+Install sphinx using  
+`python -m pip install sphinx`  
+and extensions via  
+```
+python -m pip install myst-parser
+python -m pip install sphinxcontrib-napoleon
+```
+Now set up the documentation folder and initialize sphinx:
+```
+mkdir docs
+cd docs/
+sphinx-quickstart
+```
+Typoe `n`, the name of your project, the author names, the project release (ie. 0.1), language `en`.
+
+Open `conf.py` and uncomment
+```
+import os
+import sys
+sys.path.insert(0, os.path.abspath('.'))
+```
+Replace `sys.path.insert(0, os.path.abspath('.'))` with the path to your package (modules), in my example `sys.path.insert(0, os.path.abspath('../src/'))`.
+Activate further extensions through
+```
 extensions = ['sphinx.ext.autodoc',
               'recommonmark',
               'sphinx.ext.napoleon'
 ]
 ```
-Include `modules` in `index.rst`.
+in your `conf.py`.
 
-There are a few items that you will need to address before the live session. One of the team members should take a lead in this, ideally the repository owner.
-- if your documentation folder is called `doc` and not `docs`: include the line `doc/_build/` in your `.gitignore` file
-- if you would like GitHub to correctly recognize the languages that you are using in your repository: add a `.gitattributes` file according to the [example repository](https://github.com/iulusoy/team0) with the content
+Now you can quickstart the autobuild of the sphinx documentation:  
+`sphinx-apidoc -o source/ ../src/` 
+This is a step that often leads to problems later on, so if things don't work out for you let me know and I will take a look. The outcome is unfortunately platform-dependent. 
+
+Type `make html` and you should then find a `index.html` file in your `docs/_build/html/` directory that you can preview using the VSCode HTML preview extension or by opening it from the file menu (opens the browser).
+
+It should contain the name of your package, the author name and Index/Module index. Your modules should be linked here.
+
+Very likely `make html` will return an error:
 ```
-# correct the language detection on github
-# exclude data files from linguist analysis
-data/* linguist-generated
+checking consistency... /home/inga/teaching/SSD_March2022/demos/unit1/my-test-repo/docs/source/modules.rst: WARNING: document isn't included in any toctree
 ```
-where you replace `data/` with the folder containing the data files that are read in by your package.
-- add a file `requirements.txt` that contains the required libraries for your package to run (see the [example repository](https://github.com/iulusoy/team0))
-- potentially update the sphinx module files, if you have added further modules in your `source/package` directory (`sphinx-apidoc` or compare to the [example repository](https://github.com/iulusoy/team0))
-- Prepare a user account on [readthedocs](https://readthedocs.org/) (this has to be done by the repository owner). You can already try to publish your documentation on RTD; compare to the [documentation of the example repository](https://team0.readthedocs.io/en/latest/index.html)
+You can add `modules` into the `index.rst` file to remedy this. But it will work either way.
+
+It is possible that your modules will not be linked correctly. If so, we need to edit the `modules.rst` file or the respective module files in the source directory. Let me know and I will show you how.
+
+## Include markdown in your sphinx documentation
+
+Include `readme` in `index.rst` and any other files (`license`, `installation`, etc). Place readme.md and installation.md, etc, files in your `docs/` folder to include them in the documentation.
+
+## requirements.txt
+Add a file `requirements.txt` that contains the required libraries for your package to run (see the [example repository](https://github.com/iulusoy/my-test-repo)).
+
+## Add your repo to readthedocs
+Import your repo into readthedocs to have it publicly hosted.
+
+## Use GitHub pages
+Use GitHub pages to host your documentation
