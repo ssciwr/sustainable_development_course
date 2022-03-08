@@ -14,7 +14,7 @@ mkdir docs
 cd docs/
 sphinx-quickstart
 ```
-Typoe `n`, the name of your project, the author names, the project release (ie. 0.1), language `en`.
+Typoe `y`, the name of your project, the author names, the project release (ie. 0.1), language `en`.
 
 Open `conf.py` and uncomment
 ```
