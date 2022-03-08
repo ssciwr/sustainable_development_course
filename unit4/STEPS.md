@@ -50,7 +50,7 @@ It is possible that your modules will not be linked correctly. If so, we need to
 
 ## Include markdown in your sphinx documentation
 
-Include `readme` in `index.rst` and any other files (`license`, `installation`, etc). Place readme.md and installation.md, etc, files in your `docs/` folder to include them in the documentation.
+Include `readme` in `index.rst` and any other files (`license`, `installation`, etc). Place readme.md and installation.md, etc, files in your `docs/source/` folder to include them in the documentation.
 
 ## requirements.txt
 Add a file `requirements.txt` that contains the required libraries for your package to run (see the [example repository](https://github.com/iulusoy/my-test-repo)).
