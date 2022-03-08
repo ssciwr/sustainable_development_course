@@ -10,7 +10,7 @@ If you run into problems at any point, please contact us via inga.ulusoy@uni-hei
 The slides for this session are found [here](./unit6_SSD_SSC.pdf). The demonstrations are listed [here](./DEMONSTRATIONS.md) - for unit 6, you can request demonstrations: What would you like to see again? Is there something that you would like to learn more about? The necessary commands for the live lession are listed [here](./STEPS.md).
 
 # 1. Video: Unit 6, part 1
-Please watch the [video]() to learn about the basics of GitHub actions.
+Please watch the [video](https://youtu.be/MLzPejUse4Y) to learn about the basics of GitHub actions.
 
 # 2. Try out GitHub actions
 Please **fork** [this repository](https://github.com/iulusoy/actions-example-iulusoy) and add a few files to `src` - ie, your custom unittest example that you had come up with in unit 5. Try out creating branches, opening pull requests and manually triggering the workflow to see when it runs. Look at the output of the runs and try to follow the steps. 
