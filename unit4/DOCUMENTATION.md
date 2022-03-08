@@ -1,7 +1,3 @@
-The demonstrations take part in the beginning of the life session. In unit 4
-- it will be demonstrated how to set up the documentation using sphinx.
-
-This is the essential documentation content:  
 -[ ] Name of the software  
 -[ ] Short description of the software  
 -[ ] Authors  
@@ -15,4 +11,4 @@ This is the essential documentation content:
 -[ ] Bug tracker  
 -[ ] References   
 -[ ] Citations  
--[ ] Source code description - functions and classes, modules, variables  
+-[ ] Source code description - functions and classes, modules, variables 
