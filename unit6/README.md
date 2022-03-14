@@ -25,7 +25,7 @@ We will meet on Thursday, March 10th at 10:00 AM to 1:00 PM for the live lesson 
 
 During the lesson, we will use [GitHub actions](https://docs.github.com/en/actions) and publish our packages on [TestPyPi](https://test.pypi.org/).
 
-# 6. Asynchronous work in your team
+# 5. Asynchronous work in your team
 Continue working on your packages and complete the pytest test suite and sphinx documentation, as well as the set-up for GitHub actions. Collaborate through GitHub, and use branches, pull request, and request reviews from your team members before merging any branches into main.
 
 I would ask you to finish your work on this by April 12th. If for some reason you will need more time, please let me know.
