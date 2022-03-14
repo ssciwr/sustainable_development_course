@@ -19,5 +19,7 @@
 - show what index.rst should look like (formatting)
 
 ## Unit 5
+- 
 
 ## Unit 6
+- requirements in setup file for publishing
