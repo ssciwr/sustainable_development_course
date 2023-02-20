@@ -1,9 +1,7 @@
 #!/usr/bin/env python3
 # package data_analysis
 # brief Contains tests for profiler and libraries
-
 # By ISU, 01/21
-# This package handles the analysis of the measured data.
 import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd

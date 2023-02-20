@@ -8,7 +8,7 @@ students who develop scientific software to carry out their research. The course
 
 **Learning outcome:** At the end of the course, the students will be able to develop their own scientific software sustainably and generate reproducible results, in accordance with best scientific practices.  
 **Total effort:** Approximately 30 hours.  
-**Date/Duration:** Sessions will take place on six days during two weeks in March 2022: Specifically, on 1/3/22, 2/3/22, 3/3/22, 8/3/22,9/3/22,10/3/22, from 10:00 AM to 1:00 PM. Please note that there is also an asynchronous part to the course, which you can work on at a time of your choice, but which should be completed before the first/before the subsequent session for a better learning experience.  
+**Date/Duration:** Sessions will take place on six days during two weeks in March 2023: Specifically, on 28/2/23, 1/3/23, 2/3/23, 7/3/22, 8/3/22, 9/3/22, from 10:00 AM to 1:00 PM. Please note that there is also an asynchronous part to the course, which you can work on at a time of your choice, but which should be completed before the first/before the subsequent session for a better learning experience.  
 **Course certificate:** You will be able to obtain a certificate of participation.  
 **Course requirements:** Basic prior programming knowledge, where the emphasis lies on **basic**; ideally in Python as the examples will be based on Python. A laptop/PC with camera, microphone and speakers is required so that you can interact with the instructor and your teammates.
 
