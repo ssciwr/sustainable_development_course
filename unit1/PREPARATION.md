@@ -19,22 +19,22 @@ If you have not yet done so:
 git config --global user.name "John Doe"
 git config --global user.email johndoe@example.com
 ```
-1. Clone the course repository (in your terminal)
+1. Clone the course repository (in your terminal)  
 `git clone https://github.com/ssciwr/sustainable_development_course.git`
-1. Please change into the course directory
+1. Please change into the course directory  
 `cd sustainable_development_course`
-1. Create a new conda environment
+1. Create a new conda environment  
 `conda create --name ssd-course python==3.9`
-1. Activate your new conda environment
+1. Activate your new conda environment  
 `conda activate ssd-course`
-1. Install the required Python libraries:
-pip install -r requirements.txt
-1. Run the installation test script by changing into the "preparation" folder abd running the Python script:
+1. Install the required Python libraries:  
+`pip install -r requirements.txt`
+1. Run the installation test script by changing into the "preparation" folder and running the Python script:
 ```
 cd preparation
 python test_install.py
 ```  
-run it in your IDE. Two windows with graphs should pop up, the first one saying "testing matplotlib", the second one "testing seaborn", both of them showing a straight line, and you need to close the windows using the "x". The output of the script should approximately read  
+Or run it in your IDE. Two windows with graphs should pop up, the first one saying "testing matplotlib", the second one "testing seaborn", both of them showing a straight line, and you need to close the windows using the "x". The output of the script should approximately read  
 ```
 Testing pandas  
    a  b  c  
@@ -42,5 +42,5 @@ Testing pandas
 1  4  5  6  
 The script took 2.1 seconds to run!
 ```
-1. Test if Jupyter is running: In your anaconda prompt, type `jupyter-notebook`. If a Window pops up asking you with which App to open the Notebook, choose your favorite browser.
+1. Test if Jupyter is running: In your anaconda prompt, type `jupyter-notebook`. If a window pops up asking you with which App to open the Notebook, choose your favorite browser.
 1. If on Windows, you can also open Jupyter from the Anaconda Navigator, just make sure to select the correct conda environment before launching Jupyter.
