@@ -4,3 +4,13 @@ seaborn
 jupyter
 pre-commit
 nbstripout
+flake8
+flake8-nb
+black
+snakeviz
+sphinx
+myst-parser
+sphinxcontrib-napoleon
+pytest
+pytest-sugar
+pytest-cov

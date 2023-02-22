@@ -17,7 +17,7 @@ Take a piece of paper and draft a software based on the pieces of the Jupyter no
 In the design, consider that your team will also have contributions to the program.
 
 # 4. Live lesson
-We will meet on Thursday, March 3rd at 10 AM - 1:00 PM for the live lesson via the previous link.
+We will meet on Thursday, March 2nd at 10 AM - 1:00 PM for the live lesson via the previous link.
 
 # 5. Asynchronous work in your team
 Continue working on your module(s). Collaborate through GitHub, and use branches, pull request, and request reviews from your team members before merging any branches into main.

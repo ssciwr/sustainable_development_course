@@ -15,7 +15,7 @@ Please create a user account on [readthedocs](https://readthedocs.org/).
 Please complete the learning lab on [how to set up GitHub pages](https://lab.github.com/githubtraining/github-pages).
 
 # 4. Live lesson
-We will meet on Tuesday, March 8th at 10:0 AM to 1:00 PM for the live lesson via the previous link.
+We will meet on Tuesday, March 7th at 10:0 AM to 1:00 PM for the live lesson via the previous link.
 
 # 5. Asynchronous work in your team
 Continue to develop your documentation into something that is worth showing others. Look at the other team's documentations and identify aspects that raise your interest for their software.

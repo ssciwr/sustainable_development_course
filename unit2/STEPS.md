@@ -30,36 +30,16 @@ You run it like so:
 ```
 black your_file.py
 ```
-Again, there is an extension for jupyter notebooks:
-```
-python -m pip install black[jupyter]
-```
-Run using `black` on your notebook file.
+You can also run black on your jupyter notebooks.
 
 ## Add linter to pre-commit hooks
 You should add the linter and code formatter to your pre-commit hooks. Use the code formatter first and then the linter. The linter will detect syntax errors as well, so even though you reformat your code, you may still get an error for the linter as it detects a "bug". 
-Install the pre-commit hook for black-nb:
-```
-python -m pip install black_nbconvert
-```
 For `black`, you need to add the following lines to your `.pre-commit-config.yaml`:
 ```
   - repo: https://github.com/psf/black
     rev: 21.11b0
     hooks:
     - id: black
-```
-To reformat notebooks with `black`:
-```
-  - repo: https://github.com/dfm/black_nbconvert
-    rev: v0.3.0
-    hooks:
-      - id: black_nbconvert
-```
-Black_nbconvert seems to fail for some participants. Please check the Python and black versions using these commands:
-```
-python --version
-black --version
 ```
 For `flake8`: 
 ```
