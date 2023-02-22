@@ -12,7 +12,7 @@ Please watch the [video](https://youtu.be/MO7AQZYaGyw) to learn about the import
 Write an example function in Python that is to be tested using unittest and different assert methods, as explained in the video. Try what happens if your test fails.
 
 # 4. Live lesson
-We will meet on Wednesday, March 9th at 10:00 AM to 1:00 PM for the live lesson via the previous link.
+We will meet on Wednesday, March 8th at 10:00 AM to 1:00 PM for the live lesson via the previous link.
 
 During the lesson, we will use [Pytest](https://docs.pytest.org/en/stable/).
 

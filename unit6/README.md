@@ -1,5 +1,5 @@
 # Unit 6: Continuous integration - GitHub actions
-In unit 4, you will learn about GitHub actions and how to publish a Python package in the Python package index, [PyPi](https://pypi.org/).
+In unit 6, you will learn about GitHub actions and how to publish a Python package in the Python package index, [PyPi](https://pypi.org/).
 
 When you publish your package, it can be pip installed and then used in ie. jupyter notebooks or more complex software.
 
@@ -21,11 +21,11 @@ Try out creating branches, opening pull requests and manually triggering the wor
 Follow the steps in [this tutorial](https://packaging.python.org/tutorials/packaging-projects/) to learn how to publish a python package and what you need to consider (ie., [proper naming](https://visualgit.readthedocs.io/en/latest/pages/naming_convention.html) of your package and modules).
 
 # 4. Live lesson
-We will meet on Thursday, March 10th at 10:00 AM to 1:00 PM for the live lesson via the previous link. 
+We will meet on Thursday, March 9th at 10:00 AM to 1:00 PM for the live lesson via the previous link. 
 
 During the lesson, we will use [GitHub actions](https://docs.github.com/en/actions) and publish our packages on [TestPyPi](https://test.pypi.org/).
 
 # 5. Asynchronous work in your team
 Continue working on your packages and complete the pytest test suite and sphinx documentation, as well as the set-up for GitHub actions. Collaborate through GitHub, and use branches, pull request, and request reviews from your team members before merging any branches into main.
 
-I would ask you to finish your work on this by April 12th. If for some reason you will need more time, please let me know.
+I would ask you to finish your work on this by April 7th. If for some reason you will need more time, please let me know.

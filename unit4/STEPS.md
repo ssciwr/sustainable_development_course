@@ -59,4 +59,4 @@ Add a file `requirements.txt` that contains the required libraries for your pack
 Import your repo into readthedocs to have it publicly hosted.
 
 ## Use GitHub pages
-Use GitHub pages to host your documentation
+Use GitHub pages to host your documentation.
