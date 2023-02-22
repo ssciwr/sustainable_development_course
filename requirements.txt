@@ -2,3 +2,5 @@ numpy
 pandas
 seaborn
 jupyter
+pre-commit
+nbstripout

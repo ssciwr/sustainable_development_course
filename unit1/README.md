@@ -16,7 +16,7 @@ Go to [Oh My Git!](https://ohmygit.org/) and download the game. Follow the instr
 Now we move on to GitHub. Create a [GitHub account](https://github.com/) and work through the [GitHub learning lab](https://lab.github.com/githubtraining/introduction-to-github). Please send me your GitHub username.
 
 # 4. Live lesson
-We will meet on Tuesday, March 10th at 10:00 AM - 1:00 PM for the live lesson. You should have gotten a link via email.
+We will meet on Tuesday, February 28th at 10:00 AM - 1:00 PM for the live lesson. You should have gotten a link via email.
 
 During the lesson, we will use [nbstripout](https://github.com/kynan/nbstripout) in conjunction with the [pre-commit package](https://pre-commit.com/).
 
