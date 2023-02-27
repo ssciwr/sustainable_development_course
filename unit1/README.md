@@ -13,7 +13,7 @@ Please watch the [video](https://youtu.be/-BJgYWMRZf4) for an introduction to gi
 Go to [Oh My Git!](https://ohmygit.org/) and download the game. Follow the instructions and have fun with git!
 
 # 3. GitHub learning lab
-Now we move on to GitHub. Create a [GitHub account](https://github.com/) and work through the [GitHub learning lab](https://lab.github.com/githubtraining/introduction-to-github). Please send me your GitHub username.
+Now we move on to GitHub. Create a [GitHub account](https://github.com/) and work through the [GitHub learning lab](https://github.com/skills/introduction-to-github). Please send me your GitHub username.
 
 # 4. Live lesson
 We will meet on Tuesday, February 28th at 10:00 AM - 1:00 PM for the live lesson. You should have gotten a link via email.
