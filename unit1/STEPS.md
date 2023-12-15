@@ -1,7 +1,4 @@
 # The required commands in live session 1
-## check out course repo
-`git clone https://github.com/ssciwr/sustainable_development_course.git`
-
 
 ## git repos and workflow
 
@@ -40,6 +37,21 @@ git add data
 git commit -m "added data files"
 git push
 ```
+
+## Creating conda environments
+To avoid negative interactions between installed packages and version conflicts, you should create a conda environment for each new project. You do si by executing 
+```
+conda create --name your-environment-name python=3.11
+```
+You then activate the environment using 
+```
+conda activate your-environment-name
+```
+Install the course requirements via the repo from assignment #2: 
+```
+pip install -r requirements.txt
+```
+This will install all necessary Python packages into your conda environment.
 
 ## Using pre-commit hooks
 ```

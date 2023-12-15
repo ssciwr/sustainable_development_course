@@ -18,7 +18,5 @@ Now we move on to GitHub. Create a [GitHub account](https://github.com/) and wor
 # 4. Work on implementation
 We will work on our implementation of a research software through the assignment #2.
 
-During the lesson, we will use [nbstripout](https://github.com/kynan/nbstripout) in conjunction with the [pre-commit package](https://pre-commit.com/).
-
 # 5. Asynchronous work in your team
 Continue working on your notebook. Commit your changes to your GitHub repo.
