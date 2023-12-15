@@ -13,10 +13,10 @@ I will give an introduction to git, GitHub and Jupyter notebooks.
 Go to [Oh My Git!](https://ohmygit.org/) and download the game. Follow the instructions and have fun with git!
 
 # 3. GitHub learning lab
-Now we move on to GitHub. Create a [GitHub account](https://github.com/) and work through the [GitHub learning lab](https://github.com/skills/introduction-to-github). Please send me your GitHub username.
+Now we move on to GitHub. Create a [GitHub account](https://github.com/) and work through the [GitHub learning lab](https://github.com/skills/introduction-to-github) that I sent you through the assignment #1. Please send me your GitHub username.
 
 # 4. Work on implementation
-We will work on our implementation of a research software.
+We will work on our implementation of a research software through the assignment #2.
 
 During the lesson, we will use [nbstripout](https://github.com/kynan/nbstripout) in conjunction with the [pre-commit package](https://pre-commit.com/).
 
