@@ -1,1 +1,0 @@
-The demonstrations take part in the beginning of the life session. In unit 6, a demonstration as requested by the participants will be carried out.

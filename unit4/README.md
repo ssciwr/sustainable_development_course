@@ -5,17 +5,15 @@ If you run into problems at any point, please contact us via inga.ulusoy@uni-hei
 
 The slides for this session are found [here](./unit4_SSD_SSC.pdf). The demonstrations are listed [here](./DEMONSTRATIONS.md) and the necessary commands for the live lession are summarized [here](./STEPS.md).
 
-# 1. Video: Unit 4
-Please watch the [video](https://youtu.be/61JeWEU8dpI) to learn about the importance and ingredients of a good documentation.
+# 1. Unit 4, Part 1
+we will learn about the importance and ingredients of a good documentation.
 
 # 2. readthedocs
 Please create a user account on [readthedocs](https://readthedocs.org/).
 
 # 3. GitHub pages
-Please complete the learning lab on [how to set up GitHub pages](https://lab.github.com/githubtraining/github-pages).
+Please complete the learning lab on [how to set up GitHub pages](https://github.com/skills/github-pages).
 
-# 4. Live lesson
-We will meet on Tuesday, March 7th at 10:0 AM to 1:00 PM for the live lesson via the previous link.
-
-# 5. Asynchronous work in your team
+# 4. Synchronous and asynchronous work in your team
+Set up sphinx for your package. You will commit the changes under the account of one team member, however it is encouraged that all of you try to set up sphinx locally on your computer. 
 Continue to develop your documentation into something that is worth showing others. Look at the other team's documentations and identify aspects that raise your interest for their software.

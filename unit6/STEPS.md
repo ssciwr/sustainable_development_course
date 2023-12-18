@@ -49,7 +49,7 @@ python -m pip install --user --upgrade twine
 ```
 - Build your package in the base directory
 ```
-python3 -m build
+python -m build
 ```
 - Create a new token on [TestPyPi](https://test.pypi.org/manage/account/#api-tokens) with no limited scope - save this somewhere, you need it for publishing the package and you will not see this again.
 - upload your package to TestPyPi

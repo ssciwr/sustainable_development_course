@@ -6,19 +6,17 @@ If you run into problems at any point, please contact us via inga.ulusoy@uni-hei
 
 The slides for this session are found [here](./unit1_SSD_SSC.pdf). The demonstrations are listed [here](./DEMONSTRATIONS.md) and the necessary commands for the live lession are summarized [here](./STEPS.md).
 
-# 1. Video: Unit 1, Part 1
-Please watch the [video](https://youtu.be/-BJgYWMRZf4) for an introduction to git, GitHub and Jupyter notebooks.
+# 1. Unit 1, Part 1
+I will give an introduction to git, GitHub and Jupyter notebooks.
 
 # 2. Play Oh My Git!
 Go to [Oh My Git!](https://ohmygit.org/) and download the game. Follow the instructions and have fun with git!
 
 # 3. GitHub learning lab
-Now we move on to GitHub. Create a [GitHub account](https://github.com/) and work through the [GitHub learning lab](https://github.com/skills/introduction-to-github). Please send me your GitHub username.
+Now we move on to GitHub. Create a [GitHub account](https://github.com/) and work through the [GitHub learning lab](https://github.com/skills/introduction-to-github) that I sent you through the assignment #1. Please send me your GitHub username.
 
-# 4. Live lesson
-We will meet on Tuesday, February 28th at 10:00 AM - 1:00 PM for the live lesson. You should have gotten a link via email.
-
-During the lesson, we will use [nbstripout](https://github.com/kynan/nbstripout) in conjunction with the [pre-commit package](https://pre-commit.com/).
+# 4. Work on implementation
+We will work on our implementation of a research software through the assignment #2.
 
 # 5. Asynchronous work in your team
 Continue working on your notebook. Commit your changes to your GitHub repo.

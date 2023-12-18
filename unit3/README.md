@@ -5,8 +5,8 @@ If you run into problems at any point, please contact us via inga.ulusoy@uni-hei
 
 The slides for this session are found [here](./unit3_SSD_SSC.pdf). The demonstrations are listed [here](./DEMONSTRATIONS.md) and the necessary commands for the live lession are summarized [here](./STEPS.md).
 
-# 1. Video: Unit 3
-Please watch the [video](https://youtu.be/rzOvoTUYtAI) to learn about software design and programming paradigms.
+# 1. Unit 3, Part 1
+We will learn about software design and programming paradigms.
 
 # 2. Programming paradigms
 Take a small example as in the video, for example the [factorial of a given number](https://en.wikipedia.org/wiki/Factorial), and try to implement it using two different paradigms. Can you identify advantages and disadvantages of one or the other paradigm in your specific example?
@@ -16,9 +16,9 @@ Take a piece of paper and draft a software based on the pieces of the Jupyter no
 
 In the design, consider that your team will also have contributions to the program.
 
-# 4. Live lesson
-We will meet on Thursday, March 2nd at 10 AM - 1:00 PM for the live lesson via the previous link.
+# 4. Design your package
+Get together with your teammates and design your package. Agree on who solves which task. Use GitHub issues to assign the tasks and keep track of the implementation.
 
-# 5. Asynchronous work in your team
+# 5. Synchronous and asynchronous work in your team
 Continue working on your module(s). Collaborate through GitHub, and use branches, pull request, and request reviews from your team members before merging any branches into main.
 
