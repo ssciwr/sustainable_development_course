@@ -5,16 +5,8 @@ If you run into problems at any point, please contact us via inga.ulusoy@uni-hei
 
 The slides for this session are found [here](./unit5_SSD_SSC.pdf). The demonstrations are listed [here](./DEMONSTRATIONS.md) and the necessary commands for the live lession are summarized [here](./STEPS.md).
 
-# 1. Video: Unit 5
-Please watch the [video](https://youtu.be/MO7AQZYaGyw) to learn about the importance of software testing, types of software tests, test-driven development and the unittest module.
+# 1. Unit 5, Part 1
+We will learn about the importance of software testing, types of software tests, and test-driven development.
 
-# 2. Write your own unit test in the unittest framework
-Write an example function in Python that is to be tested using unittest and different assert methods, as explained in the video. Try what happens if your test fails.
-
-# 4. Live lesson
-We will meet on Wednesday, March 8th at 10:00 AM to 1:00 PM for the live lesson via the previous link.
-
-During the lesson, we will use [Pytest](https://docs.pytest.org/en/stable/).
-
-# 5. Asynchronous work in your team
+# 2. Synchronous and asynchronous work in your team
 Continue working on your module(s) and complete the Pytest test suite. Collaborate through GitHub, and use branches, pull request, and request reviews from your team members before merging any branches into main.

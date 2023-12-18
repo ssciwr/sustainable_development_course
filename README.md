@@ -69,7 +69,7 @@ The documentation tools for your software will be set up and structured.
 1. Writing unit tests using pytest fixtures
 1. Pytest: Demonstrations
 
-We will continue our work on the programming project.
+We will continue our work on the software package.
 
 ## 6. Continuous integration: GitHub actions
 [Go to unit 6](unit6/README.md)
