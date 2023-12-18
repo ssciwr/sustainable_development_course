@@ -36,7 +36,7 @@ In this unit, we will work with Jupyter notebooks in our own repositories on Git
 1. Technical debt and clean coding
 1. Style guides
 1. Working with an IDE
-1. Linting and performance of code
+1. Linting of code
 1. More on git: “Clean” repositories
 1. Pull requests
 1. Code review and merging
