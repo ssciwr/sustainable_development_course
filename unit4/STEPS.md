@@ -10,17 +10,16 @@ sphinx-quickstart
 ```
 Typoe `y`, the name of your project, the author names, the project release (ie. 0.1), language `en`.
 
-Open `conf.py` and uncomment
+Open `source/conf.py` and put in
 ```
 import os
 import sys
-sys.path.insert(0, os.path.abspath('.'))
+sys.path.insert(0, os.path.abspath('../../src/'))
 ```
-Replace `sys.path.insert(0, os.path.abspath('.'))` with the path to your package (modules), in my example `sys.path.insert(0, os.path.abspath('../src/'))`.
 Activate further extensions through
 ```
 extensions = ['sphinx.ext.autodoc',
-              'myst-parser',
+              'myst_parser',
               'sphinx.ext.napoleon'
 ]
 ```
@@ -30,7 +29,7 @@ Now you can quickstart the autobuild of the sphinx documentation:
 `sphinx-apidoc -o source/ ../src/` 
 This is a step that often leads to problems later on, so if things don't work out for you let me know and I will take a look. 
 
-Type `make html` and you should then find a `index.html` file in your `docs/_build/html/` directory that you can preview using the VSCode HTML preview extension or by opening it from the file menu (opens the browser).
+Type `make html` and you should then find a `index.html` file in your `docs/build/html/` directory that you can preview using the VSCode HTML preview extension or by opening it from the file menu (opens the browser).
 
 It should contain the name of your package, the author name and Index/Module index. Your modules should be linked here.
 
