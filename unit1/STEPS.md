@@ -2,7 +2,6 @@
 
 ## git repos and workflow
 
-See [here](https://docs.github.com/en/get-started/getting-started-with-git/managing-remote-repositories).
 ### start locally
 ```
 mkdir my-test-repo
@@ -62,7 +61,7 @@ in .pre-commit-config.yaml:
 ```
 repos:
   - repo: https://github.com/kynan/nbstripout
-    rev: 0.5.0
+    rev: 0.8.1
     hooks:
       - id: nbstripout
         files: ".ipynb"

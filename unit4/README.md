@@ -12,8 +12,8 @@ we will learn about the importance and ingredients of a good documentation.
 Please create a user account on [readthedocs](https://readthedocs.org/).
 
 # 3. GitHub pages
-Please complete the learning lab on [how to set up GitHub pages](https://github.com/skills/github-pages).
+Please complete the learning lab on [how to set up GitHub pages](https://classroom.github.com/a/8HLdEW04).
 
 # 4. Synchronous and asynchronous work in your team
-Set up sphinx for your package. You will commit the changes under the account of one team member, however it is encouraged that all of you try to set up sphinx locally on your computer. 
+Set up sphinx for your package. You will commit the changes under the account of one team member, however it is encouraged that all of you try to set up sphinx locally on your computer. You may use [this repo](https://classroom.github.com/a/e-RvSMt4) as a reference.
 Continue to develop your documentation into something that is worth showing others. Look at the other team's documentations and identify aspects that raise your interest for their software.

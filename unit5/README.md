@@ -9,4 +9,4 @@ The slides for this session are found [here](./unit5_SSD_SSC.pdf). The demonstra
 We will learn about the importance of software testing, types of software tests, and test-driven development.
 
 # 2. Synchronous and asynchronous work in your team
-Continue working on your module(s) and complete the Pytest test suite. Collaborate through GitHub, and use branches, pull request, and request reviews from your team members before merging any branches into main.
+Continue working on your module(s) and complete the Pytest test suite. Collaborate through GitHub, and use branches, pull request, and request reviews from your team members before merging any branches into main. You may use [this repo](https://classroom.github.com/a/QYjUdSIe) as a reference.
