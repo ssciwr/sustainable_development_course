@@ -1,1 +1,1 @@
-The demonstrations take part in the beginning of the life session. In unit 5, it will be demonstrated how to use pytest fixtures and parametrizations.
+The demonstrations take part in the beginning of the life session. In unit 5, it will be demonstrated how to create pytest unit tests.

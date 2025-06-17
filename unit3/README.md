@@ -9,7 +9,7 @@ The slides for this session are found [here](./unit3_SSD_SSC.pdf). The demonstra
 We will learn about software design and programming paradigms.
 
 # 2. Programming paradigms
-Take a small example as in the video, for example the [factorial of a given number](https://en.wikipedia.org/wiki/Factorial), and try to implement it using two different paradigms. Can you identify advantages and disadvantages of one or the other paradigm in your specific example?
+Take a small example, for example the [factorial of a given number](https://en.wikipedia.org/wiki/Factorial), and try to implement it using two different paradigms. You can use the [paradigm example repo](https://classroom.github.com/a/rTdjkl4h) as a reference. Can you identify advantages and disadvantages of one or the other paradigm in your specific example?
 
 # 3. Plan your software
 Take a piece of paper and draft a software based on the pieces of the Jupyter notebook that you wrote. Consider: programming paradigm (style), top-down or bottom-up? Do this without your team.​

@@ -22,7 +22,7 @@ Download and install [Visual Studio Code](https://code.visualstudio.com/) or ano
 Run the linter on your jupyter notebook and correct any issues. Install the linter as pre-commit hook.
 
 # 5. Clean repositories
-Look at your .gitignore file and see if there are any more files that should be excluded from version tracking.
+Look at your `.gitignore` file and see if there are any more files that should be excluded from version tracking.
 
 # 6. Work in your team
 You will form teams and agree on which team member solves which task. Create one repository on GitHub for the team and merge your changes into one notebook.
