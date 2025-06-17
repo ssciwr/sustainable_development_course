@@ -13,10 +13,10 @@ I will give an introduction to git, GitHub and Jupyter notebooks.
 Go to [Oh My Git!](https://ohmygit.org/) and download the game. Follow the instructions and have fun with git!
 
 # 3. GitHub learning lab
-Now we move on to GitHub. Create a [GitHub account](https://github.com/) and work through the [GitHub learning lab](https://github.com/skills/introduction-to-github) that I sent you through the assignment #1. Please send me your GitHub username.
+Now we move on to GitHub. Create a [GitHub account](https://github.com/) and work through the [GitHub learning lab](https://github.com/skills/introduction-to-github) ([assignment #1](https://classroom.github.com/a/sXwsqTHV)).
 
 # 4. Work on implementation
-We will work on our implementation of a research software through the assignment #2.
+We will work on our implementation of a research software through the [assignment #2](https://classroom.github.com/a/Pxtx1iWw).
 
-# 5. Asynchronous work in your team
+# 5. Asynchronous individual work
 Continue working on your notebook. Commit your changes to your GitHub repo.
