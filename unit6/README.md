@@ -22,4 +22,3 @@ Follow the steps in [this tutorial](https://packaging.python.org/tutorials/packa
 # 4. Synchronous and asynchronous work in your team
 Continue working on your packages and complete the pytest test suite and sphinx documentation, as well as the set-up for GitHub actions. Collaborate through GitHub, and use branches, pull request, and request reviews from your team members before merging any branches into main.
 
-I would ask you to finish your work on this by March 10th. If for some reason you will need more time, please let me know.
